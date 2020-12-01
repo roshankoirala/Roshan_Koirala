@@ -4,6 +4,8 @@
 My name is Roshan Koirala. I am a data scientist. I have Ph.D. in particle physics. 
 
 
+Please find my [LinkedIn](https://www.linkedin.com/in/roshan-koirala/) profile here. 
+
 
 You can use the [editor on GitHub](https://github.com/roshankoirala/Roshan_Koirala/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
